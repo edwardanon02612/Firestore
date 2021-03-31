@@ -36,6 +36,7 @@ const usuariosRef = db.collection('usuarios');
  //.delete()
  //.then( () => console.log('Borrado') )
  //.catch( e => console.log('error', e));
+ //hola 
 
  //select * from usuarios;
  usuariosRef
